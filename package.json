@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-plugin-dashboard-certifications",
+  "version": "1.0.0",
+  "description": "This is a gatsby plugin with the goal to show a dashboard with all certifications informations from an author.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdaschmidt/gatsby-plugin-dashboard-certifications.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "certification",
+    "plugin",
+    "dashboard"
+  ],
+  "author": "Frederic Schmidt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fdaschmidt/gatsby-plugin-dashboard-certifications/issues"
+  },
+  "homepage": "https://github.com/fdaschmidt/gatsby-plugin-dashboard-certifications#readme"
+}
